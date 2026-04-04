@@ -52,7 +52,7 @@
 
 ## 🎯 Project Overview
 
-**Dhananjay Financial Data Management Syetm** is a Spring Boot application built to manage financial records and deliver real-time analytics dashboards with enterprise-grade security and clean RESTful design.
+**Financial Data Management Syetm** is a Spring Boot application built to manage financial records and deliver real-time analytics dashboards with enterprise-grade security and clean RESTful design.
 
 ```
 💡 Track INCOME & EXPENSES  ·  📊 Visualize Category/Monthly/Weekly Trends
@@ -1629,6 +1629,6 @@ git push origin feature/your-feature-name
 
 ---
 
-*📋 Submitted to Zorvyn Assignment Portal — Finance Data Processing and Access Control Backend — Deadline: Mon 06 Apr 2026*
+*📋 Submitted to Zorvyn [Assignment] — Finance Data Processing and Access Control Backend — Deadline: Mon 06 Apr 2026*
 
 </div>
