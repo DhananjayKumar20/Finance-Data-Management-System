@@ -1580,8 +1580,8 @@ Contributions are welcome! 🎉
 **1. Fork & Clone**
 
 ```bash
-git clone https://github.com/DhananjayKumar20/dhananjay-finance-api.git
-cd dhananjay-finance-api
+git clone https://github.com/DhananjayKumar20/Finance-Data-Management-System.git
+cd Finance-Data-Management-System
 ```
 
 **2. Create a Feature Branch**
