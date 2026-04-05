@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 💰 Dhananjay — Finance Data Processing and Access Control Backend
+# 💰 Finance Data Processing and Access Control Backend
 
 ### *A production-grade, role-based financial data management syetm*
 ### *Built for Zorvyn FinTech · Spring Boot · PostgreSQL · JWT · Swagger · Pagination*
@@ -18,7 +18,7 @@
 
 <br/>
 
-> 🏦 **Dhananjay** (Sanskrit: *धनंजय* — "Winner of Wealth") is a clean, scalable REST API for tracking income, expenses, and financial analytics — secured with JWT, enforced by role-based access control, fully documented via Swagger UI, and built for production with paginated endpoints across every module.
+> 🏦 Financial Data Management System is a clean, scalable REST API for tracking income, expenses, and financial analytics — secured with JWT, enforced by role-based access control, fully documented via Swagger UI, and built for production with paginated endpoints across every module.
 
 <br/>
 
